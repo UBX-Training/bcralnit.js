@@ -1,0 +1,9 @@
+{
+	"name": "bcralnit.js",
+	"version": "1.0.0",
+	"description": "This jquery plugin converts the normal textarea element into a scrollable content-editable area with line numbers.",
+	"devDependencies": {
+	},
+	"dependencies": {
+	}
+}
